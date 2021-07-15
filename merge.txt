@@ -1,0 +1,4 @@
+ hello 
+we can merge all the files
+:wq
+
